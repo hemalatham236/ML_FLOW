@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPs/ML_FLOW/mlruns/607023602002216935/c4d341cb994447e8be2a1421065069cf/artifacts
+end_time: 1742125251925
+entry_point_name: ''
+experiment_id: '607023602002216935'
+lifecycle_stage: active
+run_id: c4d341cb994447e8be2a1421065069cf
+run_name: hyperparameter_run_2
+run_uuid: c4d341cb994447e8be2a1421065069cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742125231557
+status: 3
+tags: []
+user_id: DELL

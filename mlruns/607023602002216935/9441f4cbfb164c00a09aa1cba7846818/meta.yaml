@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPs/ML_FLOW/mlruns/607023602002216935/9441f4cbfb164c00a09aa1cba7846818/artifacts
+end_time: 1742127599735
+entry_point_name: ''
+experiment_id: '607023602002216935'
+lifecycle_stage: active
+run_id: 9441f4cbfb164c00a09aa1cba7846818
+run_name: KNN
+run_uuid: 9441f4cbfb164c00a09aa1cba7846818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742127558995
+status: 3
+tags: []
+user_id: DELL

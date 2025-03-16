@@ -1,6 +1,7 @@
 artifact_location: file:///C:/Users/DELL/Desktop/MLOPs/ML_FLOW/mlruns/459028061796629847
 creation_time: 1742111814633
 experiment_id: '459028061796629847'
-last_update_time: 1742111814633
-lifecycle_stage: active
+last_update_time: 1742116248150
+lifecycle_stage: deleted
 name: Loanstatus
+tags: {}
